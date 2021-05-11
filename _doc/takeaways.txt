@@ -1,0 +1,9 @@
+- dynamic meta data
+  - #TA3-01
+- add same meta data to every single page
+  - use _app.tsx
+  - #TA3-02
+- add elements outside of your component tree
+  - #TA3-03
+- image optimization
+  - #TA4-04
